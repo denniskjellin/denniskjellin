@@ -6,6 +6,8 @@ During my studies I work extra at Jack & Jones were I have worked as a assistant
 
 I see myself as a person that spreads good energy in life in general and always tries to see things from a positive perspective, I would say thats one of my strengths.
 
+## I have experience in:
+
 ### Programming languages
 
 <p>

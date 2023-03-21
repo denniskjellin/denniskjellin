@@ -1,10 +1,10 @@
 # Hi there!
-This is a Github-account for Dennis Kjellin, currently a student at Mittuniversitetet in Sundsvall Sweden. The program im attending is Webdevelopment. Here I will post my work and you can look att my different projects and see me develop and advancing my skills in the web-development field!
+This is a Github account for Dennis Kjellin, currently a student at Mittuniversitetet in Sundsvall, Sweden. The program I'm attending is Web development. Here I will post my work, and you can look at my different projects and see me developing and advancing my skills in the web-development field!
 
 ## Short info
-During my studies I work extra at Jack & Jones were I have worked as a assistant store manager for about 11 years now. I am also employed at Mittuniversitetet Sundsvall as a 'assigment supervisor' for the students that studdies the first year of webdevelopment program, where I help students with their assigments and help them grow the best way I possible can.
+During my studies, I work extra at Jack & Jones, where I have worked as an assistant store manager for about 11 years now. I am also employed at Mittuniversitetet Sundsvall as an "assignment supervisor' for the students in the first year of the web development program, where I help students with their assignments and help them grow the best way I possibly can.
 
-I see myself as a person that spreads good energy in life in general and always tries to see things from a positive perspective, I would say thats one of my strengths.
+I see myself as a person who spreads good energy in life in general and always tries to see things from a positive perspective, I would say that's one of my strengths.
 
 ## I have experience in:
 

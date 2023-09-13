@@ -10,7 +10,7 @@
 
 🚀 I've taken the next step in my career journey by landing my first role as a Web Developer at Knowit. Here, I'm part of a dynamic team that's passionate about delivering cutting-edge web solutions.
 
-📬 You can contact me at [denniskjellin@hotmail.com] or connect with me on LinkedIn [www.linkedin.com/in/denniskjellin] to stay in touch.
+📬 You can contact me at denniskjellin@hotmail.com or connect with me on LinkedIn www.linkedin.com/in/denniskjellin to stay in touch.
 
 Thank you for visiting my GitHub profile!
 

@@ -1,10 +1,19 @@
-# Hi there!
-This is a Github account for Dennis Kjellin, currently a student at Mittuniversitetet in Sundsvall, Sweden. The program I'm attending is Web development. Here I will post my work, and you can look at my different projects and see me developing and advancing my skills in the web-development field!
+👋 Welcome to my GitHub profile!
 
-## Short info
-During my studies, I work extra at Jack & Jones, where I have worked as an assistant store manager for about 11 years now. I am also employed at Mittuniversitetet Sundsvall as an "assignment supervisor' for the students in the first year of the web development program, where I help students with their assignments and help them grow the best way I possibly can.
+🎓 I'm Dennis Kjellin, a Computer Engineering graduate with a specialization in Full Stack Development. I recently completed my studies at Mittuniversitetet in Sundsvall, Sweden, where I pursued a program in Web Development. My journey into the world of technology has been a thrilling one, and I'm excited to share some of my work with you through this GitHub account.
 
-I see myself as a person who spreads good energy in life in general and always tries to see things from a positive perspective, I would say that's one of my strengths.
+💼 In addition to my academic pursuits, I've accumulated over 12 years of valuable experience at Jack & Jones, where I've served as an Assistant Store Manager. This role has not only developed my leadership and teamwork skills but also created a strong work ethic and a commitment to delivering exceptional results.
+
+🌟 I'm known for my positivity and my ability to infuse good energy into every aspect of life. I believe that maintaining a positive perspective is one of my greatest strengths, and it's a quality I bring to both my work and personal interactions.
+
+✨ Recently, I achieved a significant milestone in my career by earning a Higher Education Diploma in Computer Engineering, officially becoming a Full Stack Developer. I'm excited to embark on this new chapter and apply my knowledge and skills to real-world projects.
+
+🚀 I've taken the next step in my career journey by landing my first role as a Web Developer at Knowit. Here, I'm part of a dynamic team that's passionate about delivering cutting-edge web solutions.
+
+📬 You can contact me at [denniskjellin@hotmail.com] or connect with me on LinkedIn [www.linkedin.com/in/denniskjellin] to stay in touch.
+
+Thank you for visiting my GitHub profile!
+
 
 ## I have experience in:
 

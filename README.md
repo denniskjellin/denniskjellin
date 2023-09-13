@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub profile!
+# 👋 Welcome to my GitHub profile!
 
 🎓 I'm Dennis Kjellin, a Computer Engineering graduate with a specialization in Full Stack Development. I recently completed my studies at Mittuniversitetet in Sundsvall, Sweden, where I pursued a program in Web Development. My journey into the world of technology has been a thrilling one, and I'm excited to share some of my work with you through this GitHub account.
 

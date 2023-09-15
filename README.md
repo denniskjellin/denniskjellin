@@ -6,8 +6,6 @@
 
 🌟 I'm known for my positivity and my ability to infuse good energy into every aspect of life. I believe that maintaining a positive perspective is one of my greatest strengths, and it's a quality I bring to both my work and personal interactions.
 
-✨ Recently, I achieved a significant milestone in my career by earning a Higher Education Diploma in Computer Engineering, officially becoming a Full Stack Developer. I'm excited to embark on this new chapter and apply my knowledge and skills to real-world projects.
-
 🚀 I've taken the next step in my career journey by landing my first role as a Web Developer at Knowit. Here, I'm part of a dynamic team that's passionate about delivering cutting-edge web solutions.
 
 📬 You can contact me at denniskjellin@hotmail.com or connect with me on LinkedIn www.linkedin.com/in/denniskjellin to stay in touch.

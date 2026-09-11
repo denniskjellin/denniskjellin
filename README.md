@@ -2,7 +2,7 @@
 
 🎓 I'm Dennis Kjellin, a Computer Engineering graduate specializing in Full Stack Development. I completed my studies at Mittuniversitetet in Sundsvall, Sweden, with a focus on Web Development. My journey into technology has been thrilling, and I'm excited to share my work with you on this GitHub account.
 
-🚀 Since 2023, I've been working as a Web Developer at Knowit Experience. Here, I contribute to front-end and back-end development, accessibility features, and other cutting-edge web solutions. Being part of a dynamic team passionate about delivering innovative web solutions has been an incredible experience.
+🚀 Since 2023, I've been working as a Web Developer, focusing on front-end and back-end development, web accessibility, and modern web solutions. Since September 2026, I've been working as a System Developer at CGI, continuing to expand my skills across different technologies and building accessible, user-focused digital experiences.
 
 💼 In addition to my role at Knowit, I have over 12 years of experience at Jack & Jones, where I served as an Assistant Store Manager. This role honed my leadership, teamwork skills, work ethic, and commitment to delivering exceptional results.
 

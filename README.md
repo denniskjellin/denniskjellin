@@ -1,8 +1,8 @@
 # Hi there, I'm Dennis! 👋
 
-I'm a **System Developer at CGI**, based in Sundsvall, Sweden, with a passion for building modern, accessible, and user-friendly digital solutions.
+I'm a **System Developer at CGI**, based in Sundsvall, Sweden.
 
-My background is primarily in web development, working across both frontend and some backend technologies. I enjoy solving problems, exploring new technologies, and continuously improving my skills as a developer.
+With a background in web development, I enjoy building modern, accessible, and user-friendly digital solutions. I'm passionate about problem-solving, learning new technologies, and continuously growing as a developer.
 
 ### 📫 Let's Connect
 
